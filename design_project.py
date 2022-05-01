@@ -12,7 +12,7 @@ import cv2
 import h5py
 
 import tensorflow as tf
-get_ipython().system('pip install tensorflow-addons==0.16.1')
+
 import tensorflow_addons as tfa
 import tensorflow.keras.layers as layer
 
@@ -31,7 +31,7 @@ print("Imports complete")
 # In[31]:
 
 
-ls
+
 
 
 # In[42]:
